@@ -1,6 +1,7 @@
 // main.c
 #include "ListaOrdenada.h"
 
+// Teste Comit
 int main() {
   LISTA lista;
   REGISTRO reg;
